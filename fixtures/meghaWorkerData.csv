@@ -1,4 +1,4 @@
-registrationmodel
+
 user,activation_key,created_timestamp,last_updated
 1,qwer,2015-05-01T00:17:40.085Z,2015-05-01T00:17:40.085Z
 2,assd,2015-05-01T00:17:40.085Z,2015-05-01T00:17:40.085Z
@@ -6,7 +6,7 @@ user,activation_key,created_timestamp,last_updated
 4,rtyu,2015-05-01T00:17:40.085Z,2015-05-01T00:17:40.085Z
 0,fghj,2015-05-01T00:17:40.085Z,2015-05-01T00:17:40.085Z
 
-passwordresetmodel
+
 user,reset_key,created_timestamp,last_updated
 1,qwer,2015-05-01T00:17:40.085Z,2015-05-01T00:17:40.085Z
 2,assd,2015-05-01T00:17:40.085Z,2015-05-01T00:17:40.085Z
